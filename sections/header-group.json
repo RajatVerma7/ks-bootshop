@@ -14,10 +14,10 @@
     "announcement_bar_Ge9W3V": {
       "type": "announcement-bar",
       "blocks": {
-        "slide_j46kwk": {
+        "slide_WLUHRC": {
           "type": "slide",
           "settings": {
-            "announcement": "Announce something important here"
+            "announcement": "Evoque is dropping fresh styles soon! Don’t miss out!"
           }
         },
         "slide_mwF4Tk": {
@@ -28,7 +28,7 @@
         }
       },
       "block_order": [
-        "slide_j46kwk",
+        "slide_WLUHRC",
         "slide_mwF4Tk"
       ],
       "settings": {
