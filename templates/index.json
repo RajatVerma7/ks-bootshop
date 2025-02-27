@@ -15,15 +15,15 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify://shop_images/tshirts.jpg",
-            "img_desktop": "shopify://shop_images/tshirts.jpg",
+            "img_mobile": "shopify://shop_images/dark-haired-man-in-brown-leather-jacket.jpg",
+            "img_desktop": "shopify://shop_images/dark-haired-man-in-brown-leather-jacket.jpg",
             "overlay_color": "#c19a6b",
             "overlay_opacity": 10,
             "overlay_blur": 2,
             "subtitle": "Trendy. Affordable. Effortless.",
-            "title": "Welcome to Evoque",
+            "title": "Elevate Your Look – Men's Edition",
             "description": "<p>Evoque brings you the latest trends at unbeatable prices. Fresh styles, effortless fashion, delivered to your doorstep!</p>",
-            "btn_primary_text": "Shop Now",
+            "btn_primary_text": "Shop Men's",
             "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop",
             "btn_secondary_text": "Best Sellers",
             "btn_secondary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop"
@@ -32,15 +32,15 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify://shop_images/rack-of-womens-clothing.jpg",
-            "img_desktop": "shopify://shop_images/rack-of-womens-clothing.jpg",
+            "img_mobile": "shopify://shop_images/spinning-under-arches-in-india.jpg",
+            "img_desktop": "shopify://shop_images/spinning-under-arches-in-india.jpg",
             "overlay_color": "#c19a6b",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Simple to Use, Easy to Customize",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.</p>",
-            "btn_primary_text": "Shop Now",
+            "subtitle": "Trendy. Affordable. Effortless.",
+            "title": "Effortless Style for Every Mood",
+            "description": "<p>Evoque brings you the latest trends at unbeatable prices. Fresh styles, effortless fashion, delivered to your doorstep!</p>",
+            "btn_primary_text": "Shop Women's",
             "btn_primary_url": "",
             "btn_secondary_text": "Best Sellers",
             "btn_secondary_url": ""
