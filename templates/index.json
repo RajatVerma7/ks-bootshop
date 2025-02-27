@@ -32,8 +32,8 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify://shop_images/fashion-portrait.jpg",
-            "img_desktop": "shopify://shop_images/fashion-portrait.jpg",
+            "img_mobile": "shopify://shop_images/rack-of-womens-clothing.jpg",
+            "img_desktop": "shopify://shop_images/rack-of-womens-clothing.jpg",
             "overlay_color": "#c19a6b",
             "overlay_opacity": 10,
             "overlay_blur": 2,
