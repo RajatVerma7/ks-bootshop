@@ -41,7 +41,7 @@
             "title": "Effortless Style for Every Mood",
             "description": "<p>Evoque brings you the latest trends at unbeatable prices. Fresh styles, effortless fashion, delivered to your doorstep!</p>",
             "btn_primary_text": "Shop Women's",
-            "btn_primary_url": "",
+            "btn_primary_url": "shopify://collections",
             "btn_secondary_text": "Best Sellers",
             "btn_secondary_url": ""
           }
@@ -94,7 +94,15 @@
         "border_color": "border-primary",
         "border_opacity": 100,
         "container_max_width": "",
-        "products": [],
+        "products": [
+          "mens-ns-lycra-track-pants-pack-of-2",
+          "button-up-sweatshirts-for-men",
+          "combo-of-3-mens-cotton-polyester-shorts",
+          "poly-matte-solid-half-sleeves-mens-polo-t-shirt-pack-of-4",
+          "mens-solid-cotton-formal-shirt",
+          "combo-of-mens-casual-joggers-pack-of-2",
+          "button-up-sweatshirts-for-men-1"
+        ],
         "collection": "latest",
         "limit": 8,
         "recommended_mode": true,
