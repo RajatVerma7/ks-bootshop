@@ -12,5 +12,16 @@
   "context": {
     "market": "in"
   },
-  "sections": {}
+  "sections": {
+    "featured_collections_n3Br7m": {
+      "settings": {},
+      "blocks": {
+        "collection_rznnLq": {
+          "settings": {
+            "img": "shopify://shop_images/pexels-yogendras31-1760900.jpg"
+          }
+        }
+      }
+    }
+  }
 }
