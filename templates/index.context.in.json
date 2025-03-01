@@ -22,6 +22,17 @@
           }
         }
       }
+    },
+    "hero_carousel_CmDneU": {
+      "settings": {},
+      "blocks": {
+        "slide_Q4UPQq": {
+          "settings": {
+            "btn_primary_url": "shopify://collections/men-s-collection",
+            "btn_secondary_url": "shopify://collections/all"
+          }
+        }
+      }
     }
   }
 }
