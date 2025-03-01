@@ -292,6 +292,7 @@
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
             "img_orientation": "adapt",
+            "video": "shopify://files/videos/5034854-uhd_3840_2160_30fps.mp4",
             "video_ratio": "adapt",
             "video_autoplay": true,
             "video_loop": true,
