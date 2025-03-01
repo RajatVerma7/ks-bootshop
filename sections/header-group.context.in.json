@@ -12,5 +12,9 @@
   "context": {
     "market": "in"
   },
-  "sections": {}
+  "sections": {},
+  "order": [
+    "announcement_bar_Ge9W3V",
+    "navbar"
+  ]
 }

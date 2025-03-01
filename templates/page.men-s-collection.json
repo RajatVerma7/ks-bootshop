@@ -15,13 +15,16 @@
         "slide_eGdG3z": {
           "type": "slide",
           "settings": {
-            "img_desktop": "shopify://shop_images/lifestyle-1.jpg",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "img_mobile": "shopify://shop_images/mencollection_1.jpg",
+            "img_desktop": "shopify://shop_images/mencollection_1.jpg",
+            "video_mobile": "shopify://files/videos/mencollectionvideo.mp4",
+            "video_desktop": "shopify://files/videos/mencollectionvideo.mp4",
+            "overlay_color": "#c19a6b",
+            "overlay_opacity": 20,
             "overlay_blur": 5,
-            "subtitle": "Optional Subtitle",
-            "title": "Welcome to our store",
-            "description": "<p>An optional description for this page</p>",
+            "subtitle": "",
+            "title": "Welcome to Men's Collection",
+            "description": "<p>Upgrade your wardrobe with our latest men's fashion picks. From casual essentials to statement pieces, discover styles that keep you looking confident every day.</p>",
             "btn_primary_text": "",
             "btn_primary_url": "",
             "btn_secondary_text": "",
@@ -76,32 +79,12 @@
         "pb": 0
       }
     },
-    "91fa2e27-741f-431f-b658-c6ce03d0f6eb": {
-      "type": "page-content",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container_max_width": "800",
-        "show_title": true,
-        "title_font_size": "h1",
-        "description_font_size": "fs-md",
-        "pt": 9,
-        "pb": 9
-      }
-    },
     "54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e": {
       "type": "card-list",
       "blocks": {
         "template--15889379819659__54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e-item-1": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/product-1_baca2f7d-a8b0-4db2-aa52-c4074f562b1d.jpg",
             "title": "John Doe",
             "description": "<p>CEO & Founder</p>",
             "btn_text": "Learn more",
@@ -111,7 +94,6 @@
         "template--15889379819659__54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e-item-2": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/product-5_4bfb97ab-4193-4461-a4e3-6e06d63b8249.jpg",
             "title": "Jane Doe",
             "description": "<p>Marketing</p>",
             "btn_text": "Learn more",
@@ -121,7 +103,6 @@
         "template--15889379819659__54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e-item-4": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/product-3.jpg",
             "title": "Jim Doe",
             "description": "<p>Sales</p>",
             "btn_text": "Learn more",
@@ -131,7 +112,6 @@
         "template--15889379819659__54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e-item-3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/product-2_51119e0e-dd95-4bc4-85bc-2db1278575ad.jpg",
             "title": "Jill Doe",
             "description": "<p>Developer</p>",
             "btn_text": "Learn more",
@@ -223,7 +203,6 @@
   "order": [
     "hero_carousel_tdHVay",
     "18e3bb8e-f1ba-421c-91c3-37c1c5b25a2a",
-    "91fa2e27-741f-431f-b658-c6ce03d0f6eb",
     "54fb0ae0-8c55-432c-8b0a-1211e6ba4a0e",
     "664feedb-7180-4e8f-a84d-1cf45bc1dd42",
     "cfc6ff50-e3a5-4219-8350-f2db73f829c8"
