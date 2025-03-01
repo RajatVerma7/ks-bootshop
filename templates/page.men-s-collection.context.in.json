@@ -18,13 +18,15 @@
       "blocks": {
         "slide_eGdG3z": {
           "settings": {
-            "title": "Welcome to Men's Collection",
             "video_mobile": "shopify://files/videos/mencollectionvideo.mp4",
             "video_desktop": "shopify://files/videos/mencollectionvideo.mp4",
             "overlay_color": "#c19a6b",
             "overlay_blur": 3,
             "subtitle": "",
-            "description": "<p>Style, Comfort, and Confidence – All in One Place.</p>"
+            "title": "Welcome to Men's Collection",
+            "description": "<p>Style, Comfort, and Confidence – All in One Place.</p>",
+            "img_desktop": "shopify://shop_images/mencollection_1.jpg",
+            "img_mobile": "shopify://shop_images/mencollection_1.jpg"
           }
         }
       },
