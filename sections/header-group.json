@@ -94,68 +94,10 @@
         "border_opacity": 100,
         "shadow": "shadow-sm"
       }
-    },
-    "hero_carousel_Az6A4N": {
-      "type": "hero-carousel",
-      "blocks": {
-        "slide_7BgXn6": {
-          "type": "slide",
-          "settings": {
-            "img_mobile": "shopify://shop_images/mencollection_1.jpg",
-            "img_desktop": "shopify://shop_images/mencollection_1.jpg",
-            "video_mobile": "shopify://files/videos/mencollectionvideo.mp4",
-            "video_desktop": "shopify://files/videos/mencollectionvideo.mp4",
-            "overlay_color": "#c19a6b",
-            "overlay_opacity": 20,
-            "overlay_blur": 0,
-            "subtitle": "",
-            "title": "Welcome to Men's Collection",
-            "description": "<p>Upgrade your wardrobe with our latest men's fashion picks. From casual essentials to statement pieces, discover styles that keep you looking confident every day.</p>",
-            "btn_primary_text": "",
-            "btn_primary_url": "",
-            "btn_secondary_text": "",
-            "btn_secondary_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_7BgXn6"
-      ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-white",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "carousel_controls": true,
-        "carousel_indicators": true,
-        "carousel_transition": "slide",
-        "carousel_transition_duration": 500,
-        "carousel_autoplay": 5,
-        "carousel_effect": "carousel-zoom-in",
-        "media_mobile_height": 400,
-        "media_desktop_height": 400,
-        "media_adapt": false,
-        "media_full": false,
-        "caption_max_width": "900",
-        "caption_position": "carousel-caption-center",
-        "subtitle_font_size": "fs-md",
-        "title_font_size": "h2",
-        "description_font_size": "fs-lg",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_color": "btn-secondary",
-        "btn_font_size": "fs-md",
-        "pt": 0,
-        "pb": 0
-      }
     }
   },
   "order": [
     "announcement_bar_Ge9W3V",
-    "navbar",
-    "hero_carousel_Az6A4N"
+    "navbar"
   ]
 }
