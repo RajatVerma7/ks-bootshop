@@ -13,23 +13,23 @@
     "market": "in"
   },
   "sections": {
+    "hero_carousel_CmDneU": {
+      "settings": {},
+      "blocks": {
+        "slide_Q4UPQq": {
+          "settings": {
+            "btn_primary_url": "shopify://pages/contact",
+            "btn_secondary_url": "shopify://products/mens-ragular-fit-shirt"
+          }
+        }
+      }
+    },
     "featured_collections_n3Br7m": {
       "settings": {},
       "blocks": {
         "collection_rznnLq": {
           "settings": {
             "img": "shopify://shop_images/pexels-yogendras31-1760900.jpg"
-          }
-        }
-      }
-    },
-    "hero_carousel_CmDneU": {
-      "settings": {},
-      "blocks": {
-        "slide_Q4UPQq": {
-          "settings": {
-            "btn_primary_url": "shopify://collections/men-s-collection",
-            "btn_secondary_url": "shopify://products/mens-ragular-fit-shirt"
           }
         }
       }
