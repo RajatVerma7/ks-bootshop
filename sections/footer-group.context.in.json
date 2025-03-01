@@ -12,5 +12,11 @@
   "context": {
     "market": "in"
   },
-  "sections": {}
+  "sections": {
+    "newsletter_fL4LWF": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    }
+  }
 }
