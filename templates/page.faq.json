@@ -9,91 +9,60 @@
  */
 {
   "sections": {
-    "hero_carousel_tdHVay": {
-      "type": "hero-carousel",
+    "91492711-8ea6-4c3d-b346-30c8b72100ec": {
+      "type": "faq",
       "blocks": {
-        "slide_eGdG3z": {
-          "type": "slide",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-1": {
+          "type": "item",
           "settings": {
-            "img_mobile": "shopify://shop_images/mencollection_1.jpg",
-            "img_desktop": "shopify://shop_images/mencollection_1.jpg",
-            "video_mobile": "shopify://files/videos/mencollectionvideo.mp4",
-            "video_desktop": "shopify://files/videos/mencollectionvideo.mp4",
-            "overlay_color": "#c19a6b",
-            "overlay_opacity": 20,
-            "overlay_blur": 5,
-            "subtitle": "",
-            "title": "Welcome to Men's Collection",
-            "description": "<p>Upgrade your wardrobe with our latest men's fashion picks. From casual essentials to statement pieces, discover styles that keep you looking confident every day.</p>",
-            "btn_primary_text": "",
-            "btn_primary_url": "",
-            "btn_secondary_text": "",
-            "btn_secondary_url": ""
+            "title": "Where do you ship?",
+            "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.<\/p>"
+          }
+        },
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-2": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to receive my order",
+            "description": "<p>This depends on whether it is an International or a Domestic order. All orders within the U.S. are considered domestic orders and they are shipped and delivered within 2-5 business days. Please see International Orders for more details.<\/p>"
+          }
+        },
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-3": {
+          "type": "item",
+          "settings": {
+            "title": "What payment methods do you support?",
+            "description": "<p>We accept PayPal, Visa, MasterCard, Discover, and American Express but feel free to contact us for other payment options.<\/p>"
+          }
+        },
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-4": {
+          "type": "item",
+          "settings": {
+            "title": "How can I track my order?",
+            "description": "<p>We will send tracking information to the e-mail address associated with your order once the item has shipped. If you have not received your tracking information and it has been over 2 business day, please contact us at (012) 123 - 4567<\/p>"
+          }
+        },
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-5": {
+          "type": "item",
+          "settings": {
+            "title": "Can I order as a gift for someone else?",
+            "description": "<p>When ordering as a gift for someone, be sure to enter in your email address to receive all summary information but enter in the recipient’s name and shipping information. We will be sure to keep all prices and receipts out of the package.<\/p>"
+          }
+        },
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-6": {
+          "type": "item",
+          "settings": {
+            "title": "How can I get a refund for my order?",
+            "description": "<p>If for any reason you are not completely satisfied with your purchase, within 30 days of placing your order, we will refund you for your purchase with no questions asked.<\/p>"
           }
         }
       },
       "block_order": [
-        "slide_eGdG3z"
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-1",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-2",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-3",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-4",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-5",
+        "template--15846749896843__91492711-8ea6-4c3d-b346-30c8b72100ec-item-6"
       ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-white",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "carousel_controls": true,
-        "carousel_indicators": true,
-        "carousel_transition": "slide",
-        "carousel_transition_duration": 500,
-        "carousel_autoplay": 5,
-        "carousel_effect": "carousel-zoom-in",
-        "media_mobile_height": 400,
-        "media_desktop_height": 400,
-        "media_adapt": false,
-        "media_full": false,
-        "caption_max_width": "900",
-        "caption_position": "carousel-caption-center",
-        "subtitle_font_size": "fs-md",
-        "title_font_size": "h2",
-        "description_font_size": "fs-lg",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_color": "btn-secondary",
-        "btn_font_size": "fs-md",
-        "pt": 0,
-        "pb": 0
-      }
-    },
-    "18e3bb8e-f1ba-421c-91c3-37c1c5b25a2a": {
-      "type": "separator",
-      "disabled": true,
-      "settings": {
-        "bg_color": "bg-body text-body",
-        "bg_opacity": 10,
-        "height": 1,
-        "container": "true",
-        "container_max_width": "",
-        "pt": 0,
-        "pb": 0
-      }
-    },
-    "cfc6ff50-e3a5-4219-8350-f2db73f829c8": {
-      "type": "separator",
-      "disabled": true,
-      "settings": {
-        "bg_color": "bg-light text-body",
-        "bg_opacity": 10,
-        "height": 1,
-        "container": "container",
-        "container_max_width": "",
-        "pt": 0,
-        "pb": 0
-      }
-    },
-    "featured_collections_WWej6A": {
-      "type": "featured-collections",
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
@@ -104,36 +73,45 @@
         "border_color": "border-body",
         "border_opacity": 100,
         "container_max_width": "",
-        "header_title": "Featured Collections",
-        "header_title_font_size": "h2",
-        "header_description": "<p>Add on optional description for this section</p>",
+        "open_first_item": true,
+        "header_title": "FAQs",
+        "header_title_font_size": "h1",
+        "header_description": "<p>Still need to reach us? Please <a href=\"\/pages\/contact-us\" title=\"Contact us\">contact us<\/a> anytime<\/p>",
         "header_description_font_size": "fs-md",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": false,
-        "slider_autoplay": 0,
-        "collection_card_text_align": "text-center",
-        "collection_card_img_orientation": "ratio-4x3",
-        "collection_card_img_border": "img-thumbnail",
-        "collection_card_show_title": true,
-        "collection_card_title_font_size": "fs-lg",
-        "collection_card_title_position": "collection-card-title-bottom",
-        "collection_card_show_product_count": true,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 4,
-        "pt": 10,
-        "pb": 10
+        "pt": 11,
+        "pb": 11
+      }
+    },
+    "664feedb-7180-4e8f-a84d-1cf45bc1dd42": {
+      "type": "richtext",
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 10,
+        "container_max_width": "900",
+        "text_align": "text-center",
+        "title": "Still have questions?",
+        "title_font_size": "h3",
+        "description": "<p>Please contact us anytime from Monday to Friday<\/p>",
+        "description_font_size": "fs-md",
+        "btn_primary_text": "Contact us",
+        "btn_primary_url": "shopify:\/\/pages\/contact",
+        "btn_primary_color": "btn-primary",
+        "btn_secondary_text": "",
+        "btn_secondary_url": "",
+        "btn_secondary_color": "btn-secondary",
+        "pt": 6,
+        "pb": 12
       }
     }
   },
   "order": [
-    "hero_carousel_tdHVay",
-    "18e3bb8e-f1ba-421c-91c3-37c1c5b25a2a",
-    "featured_collections_WWej6A",
-    "cfc6ff50-e3a5-4219-8350-f2db73f829c8"
+    "91492711-8ea6-4c3d-b346-30c8b72100ec",
+    "664feedb-7180-4e8f-a84d-1cf45bc1dd42"
   ]
 }
