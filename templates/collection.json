@@ -67,6 +67,7 @@
         "collection_QiMCEP",
         "collection_DQ7PUz"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
